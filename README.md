@@ -1,9 +1,4 @@
 # Currency-Converter
-Here’s a complete and clear `README.md` file for your **Modern Currency Converter** project using `ttkbootstrap` and `tkinter`:
-
----
-
-## 💱 Modern Currency Converter
 
 A modern, user-friendly currency converter built with Python's `tkinter` and styled using `ttkbootstrap`. This application lets you convert between multiple popular currencies **without requiring any API** — using predefined exchange rates.
 
